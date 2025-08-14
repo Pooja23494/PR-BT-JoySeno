@@ -1,0 +1,376 @@
+@media (max-width: 575px) {
+
+    /* Header Section Start */
+    header {
+        background: #252f2d !important;
+    }
+
+    .navbar {
+        padding: 10px 0px;
+    }
+
+    .logo {
+        width: auto;
+    }
+
+    .navbar-nav .nav-link {
+        padding: 5px 5px 0px 5px;
+        margin: 0px 0px 0px 0px;
+        width: 45%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .banner {
+        padding: 30px 0px;
+        background-size: 100% 100%;
+    }
+
+    .banner-content {
+        padding-left: 0px;
+        padding-top: 0px;
+    }
+
+    .banner-content h1 {
+        font-size: 26px;
+        line-height: normal;
+    }
+
+    .social-icon {
+        display: none;
+    }
+
+    .video-btn {
+        padding-top: 30px;
+    }
+
+    /* Header Section End */
+
+    /* Service Section Start */
+    .services {
+        padding-top: 90px !important;
+    }
+
+    .services .services-content .service-item {
+        width: 290px;
+        padding: 80px 0px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    /* Service Section End */
+
+    /* Portfolio Section Start */
+    .portfolio .portfolio_body .portfolio_content {
+        padding-top: 0px;
+    }
+
+    /* Portfolio Section End */
+
+    /* Blog Section Start */
+    .blog {
+        height: auto;
+        margin-bottom: 0px;
+        padding-bottom: 90px;
+    }
+
+    .blog_content {
+        padding-top: 30PX;
+    }
+
+    .blog_box {
+        margin-top: 30px;
+    }
+
+    .readmore_btn_1 a {
+        color: #252525;
+        background-color: #fefefe;
+    }
+
+    /* Blog Section End */
+
+    /* Contact Section Start */
+    .mail_section_1 {
+        width: 100%;
+    }
+
+    /* Contact Section End */
+
+    /* Project Section Start */
+    .project_main {
+        display: block;
+    }
+
+    .hire_text {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .callnow_btn {
+        width: 200px;
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 20px;
+    }
+
+    /* Project Section End */
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /* Header Section Start */
+    header {
+        background: #252f2d !important;
+    }
+
+    .navbar {
+        padding: 10px 0px;
+    }
+
+    .logo {
+        width: auto;
+    }
+
+    .navbar-nav .nav-link {
+        padding: 5px 5px 0px 5px;
+        margin: 0px 0px 0px 0px;
+        width: 45%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .banner {
+        padding: 30px 0px;
+        background-size: 100% 100%;
+    }
+
+    .banner-content {
+        padding-left: 0px;
+        padding-top: 0px;
+    }
+
+    .banner-content h1 {
+        font-size: 26px;
+        line-height: normal;
+    }
+
+    .social-icon {
+        display: none;
+    }
+
+    .video-btn {
+        padding-top: 30px;
+    }
+
+    /* Header Section End */
+
+    /* Service Section Start */
+    .services {
+        padding-top: 90px !important;
+    }
+
+    .services .services-content .service-item {
+        width: 250px;
+        padding: 60px 0px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    /* Service Section End */
+
+    /* Portfolio Section Start */
+    .portfolio .portfolio_body .portfolio_content {
+        padding-top: 0px;
+    }
+
+    /* Portfolio Section End */
+
+    /* Blog Section Start */
+    .blog {
+        height: auto;
+        margin-bottom: 0px;
+        padding-bottom: 90px;
+    }
+
+    .blog_content {
+        padding-top: 30PX;
+    }
+
+    .blog_box {
+        margin-top: 30px;
+    }
+
+    .readmore_btn_1 a {
+        color: #252525;
+        background-color: #fefefe;
+    }
+
+    /* Blog Section End */
+
+    /* Contact Section Start */
+    .mail_section_1 {
+        width: 100%;
+    }
+
+    /* Contact Section End */
+
+    /* Project Section Start */
+    .project_main {
+        display: block;
+    }
+
+    .hire_text {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .callnow_btn {
+        width: 200px;
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 20px;
+    }
+
+
+    /* Project Section End */
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /* Header Section Start */
+    header {
+        background: #252f2d !important;
+    }
+
+    .navbar {
+        padding: 10px 0px;
+    }
+
+    .logo {
+        width: auto;
+    }
+
+    .navbar-nav .nav-link {
+        padding: 5px 5px 0px 5px;
+        margin: 0px 0px 0px 0px;
+        width: 45%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .banner {
+        padding: 30px 0px;
+        background-size: 100% 100%;
+    }
+
+    .banner-content {
+        padding-left: 0px;
+        padding-top: 50px;
+    }
+
+    .banner-content h1 {
+        font-size: 40px;
+        line-height: normal;
+    }
+
+    .video-btn {
+        padding-top: 30px;
+    }
+
+    /* Header Section End */
+
+    /* Service Section Start */
+    .services {
+        padding-top: 90px !important;
+    }
+
+    .services .services-content .service-item {
+        width: 250px;
+        padding: 60px 0px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    /* Service Section End */
+
+
+    /* Blog Section Start */
+    .blog {
+        height: 380px;
+    }
+
+    .blog_content {
+        padding-top: 30PX;
+    }
+
+    .blog_box {
+        margin-top: 30px;
+    }
+
+    .prep_text {
+        font-size: 20px;
+        padding: 90px 20px 20px 20px;
+    }
+
+    /* Blog Section End */
+
+    /* Contact Section Start */
+    .mail_section_1 {
+        width: 100%;
+    }
+
+    /* Contact Section End */
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    /* Header Section Start */
+    .navbar {
+        padding: 30px 0px 30px 50px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .banner {
+        padding: 0px 0px 155px 0px;
+    }
+
+    .banner-content {
+        padding-left: 50px;
+        padding-top: 40px;
+    }
+
+    .banner-content h1 {
+        font-size: 50px;
+    }
+
+    .video-btn {
+        padding-top: 30px;
+        padding-left: 50px;
+    }
+
+    /* Header Section End */
+
+    /* Service Section Start */
+    .services .services-content .service-item {
+        padding: 45px 0px;
+    }
+
+    .services .services-content .service-item h4 {
+        font-size: 20px;
+    }
+
+    /* Service Section End */
+
+    /* Blog Section Start */
+    .prep_text {
+        padding: 190px 20px 20px 20px;
+    }
+
+    /* Blog Section End */
+}
